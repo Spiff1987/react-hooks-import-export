@@ -1,3 +1,5 @@
+import { trees, wildlife } from "./parks/RockyMountain";
+
 const trees = "Aspen and Pine";
 
 function wildlife() {
@@ -9,3 +11,6 @@ function elevation() {
 }
 
 export { trees, wildlife };
+
+export { trees, wildlife, elevation };
+
